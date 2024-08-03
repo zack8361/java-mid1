@@ -1,4 +1,4 @@
-package lang.object;
+package lang.object.tostring;
 
 public class ObjectMain {
     public static void main(String[] args) {
@@ -10,6 +10,5 @@ public class ObjectMain {
 
         // toString()은 Object 클래스의 메서드이다.
         String string = child.toString();
-
     }
 }

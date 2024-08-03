@@ -18,6 +18,6 @@ public class ObjectPolyExample1 {
         else if(obj instanceof Car car){
             car.move();
         }
-        
+
     }
 }
