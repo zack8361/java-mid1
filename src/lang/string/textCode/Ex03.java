@@ -10,7 +10,7 @@ public class Ex03 {
     public static void main(String[] args) {
         String fruits = "apple,banana,kiwi";
         String[] fruitArr = fruits.split(",");
-
+        System.out.println();
         List<String> strings = new ArrayList<>();
         strings.add("123");
         strings.add("123");
